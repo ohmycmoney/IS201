@@ -1,0 +1,42 @@
+.header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    text-decoration: solid, underline;
+    text-align: center;
+}
+.center{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: white;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: purple;
+}
+.pic{
+    width: 8pc;
+}
+.title{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-image: url(../assets/img/Towmater.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
